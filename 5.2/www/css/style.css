@@ -8,6 +8,23 @@ table {
 td {
 	border: 5px solid black;
 }
+.col1 {
+	width:70px;
+}
+.col2 {
+	width:100px;
+}
+.favorite_tr1 {
+	height: 70px;
+}
+.favorite_tr2 {
+	height: 110px;
+}
+.favorite_tr3 {
+	height: 40px;
+}
+
+
 /*background table*/
 .color_yellow {
 	background: yellow;
