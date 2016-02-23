@@ -32,9 +32,29 @@ a {
 .header a:hover {
     color: white;
 }
-.header li:hover {
+.column a {
+    color: white;
+    text-decoration: underline;
+}
+.header li:last-child:hover {
     background:#4eabda;
 }
+.header li:nth-child(2):hover {
+    background:#4eabda;
+}
+.header li:nth-child(3):hover {
+    background:#4eabda;
+}
+.header li:nth-child(4):hover {
+    background:#4eabda;
+}
+.header li:nth-child(5):hover {
+    background:#4eabda;
+}
+.header li:last-child {
+    background:#4eabda;
+}
+
 /*Header/Ajuda_right_border*/
 .border {
     height: 16px;
